@@ -167,7 +167,7 @@ private LogoutCallback logoutCallback = new LogoutCallback() {
 ## **Create Transaction**
 A transacton represents a unique potentially taxable action. The `createTransaction` uses the tax profile of your company to identify the correct tax rules and rates to apply to all line items in the transaction.
 
-- **Kotlin*
+- **Kotlin**
 ```Kotlin
 MikaSdk.instance.createTransaction(acquirerId, amount, locationLat, locationLong, this.createTransactionCallback)
 
