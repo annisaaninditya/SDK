@@ -269,4 +269,4 @@ private TransactionCallback transactionCallback = new TransactionCallback() {
 ```
 
 Where the parameters;
-- **oder** (string): asc to sort the list by date with ascending format, or desc to sort the list by date with descending format.
+- **order** (string): asc to sort the list by date with ascending format, or desc to sort the list by date with descending format.
