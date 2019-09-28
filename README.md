@@ -63,7 +63,9 @@ MikaSdk.instance.initialize(applicationContext)
 ## **Transaction Flow**
 
 Transaction flow is a representation of a system's procesessing that were used for funtional testing.
+
 ![](images/transaction.jpg)
+
 The flow above is a high-level picture of Transaction Flow for this application, with the following steps:
 1. Create Transaction: Call `createTrasaction` method to send a request (create transaction) to backend
 2. Transaction Response: Handle the backend response with SDK callback
