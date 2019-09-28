@@ -1,3 +1,13 @@
+# **Introduction**
+
+Mika SDK is a product developed and provided by Mika that enable partners to embed in-app online payment features in their Android mobile apps. Mika SDK provides several features, such as: 
+- Create a transaction 
+- Get details of a transaction 
+- Get list of transactions 
+- Get list of acquirers 
+- Enable MQTT service to listen to transaction event
+- Card checking (Magnetic, IC, NFC) via SUNMI Pay SDK 
+
 # **Get Started**
 ## **Requirement**
 
